@@ -1,0 +1,2 @@
+lengthscale,likelihood_variance,kernel_variance,trainable_kernel,trainable_variance,trainable_lengthscale,avg_rmse,rmse_list
+"[0.08, 0.08, 1]",400.0,625.0,1.0,1.0,0.0,8.880064499883474,"[(17.498605241140112, 0.2615237586268357)]"
