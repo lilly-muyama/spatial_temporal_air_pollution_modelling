@@ -1,0 +1,2 @@
+lengthscale,likelihood_variance,kernel_variance,trainable_kernel,trainable_variance,trainable_lengthscale,avg_rmse,rmse_list,avg_mape,mape_list
+,400.0,625.0,1.0,1.0,1.0,,[],,[]
